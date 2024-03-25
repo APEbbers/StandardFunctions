@@ -360,7 +360,6 @@ class StandardFunctions_FreeCAD:
                 return
         return
 
-
     def PartFeatureList():
         result = [
             "Part::PartFeature",
@@ -411,7 +410,6 @@ class StandardFunctions_FreeCAD:
         ]
 
         return result
-
 
     def PartDesingFeatureList():
         result = [
